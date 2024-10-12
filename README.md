@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @komalchamyal
-- 👀 I’m interested in coding, web development and data science
-- 🌱 Hansraj CS(H) graduate
+- 👀 Data Scientist by Profession
+- 🌱 Hansraj Computer Science (Hons) Graduate, IIT Madras Diploma in Programming
 - 📫 How to reach me:
 - Email: komalchamyal22@gmail.com 
 - LinkedIn: www.linkedin.com/in/komal-chamyal-18248b1b3
